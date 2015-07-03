@@ -1,0 +1,11 @@
+spec_name  phase        vel_50         velerr_16  vel_err_84   velerr_16_temperr   velerr_84_temperr
+sn2007ru-20071203-z.flm            -3.0        -18251.4           100.4           271.0          4818.8          4825.3
+sn2007ru-20071206-z.flm            -0.0        -19131.1            69.7           330.6          3926.7          3940.0
+snru_dec10_fcorr_d-bl.flm             4.0        -17452.4           281.9           338.3          2203.6          2211.5
+snru_dec11_fcorr_d-bl.flm             5.0        -16258.0            74.0           242.0          2186.7          2198.8
+snru_dec15_fcorr_d-bl.flm             9.0        -16455.5           234.9           205.2          1160.6          1155.0
+snru_dec19_fcorr_d-bl.flm            13.0        -13537.5           297.6           258.5          2702.8          2698.7
+snru_dec22_fcorr_d-bl.flm            16.0        -12091.8           339.4           340.9          1618.8          1619.1
+snru_jan04_fcorr_d-bl.flm            29.0        -13002.9           494.1           605.8           920.5           985.0
+sn2007ru-20080111-mmt-z.flm            36.0        -12301.4           262.7            59.3          1499.9          1477.9
+snru_feb03_fcorr_d-bl.flm            59.0        -14697.8           424.6           431.9          1164.6          1167.3

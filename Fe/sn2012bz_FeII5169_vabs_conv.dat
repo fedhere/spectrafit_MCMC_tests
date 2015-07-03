@@ -1,0 +1,4 @@
+spec_name  phase        vel_50         velerr_16  vel_err_84   velerr_16_temperr   velerr_84_temperr
+GRB120422A_May6_GTC-z-bin-bl.flm             0.8        -22291.8           585.7           666.5          3969.5          3982.2
+GRB120422A_May_10_XSH-z-bin-bl.flm             3.9        -23157.1           759.7           591.0          2313.7          2264.0
+GRB120422A_May_16_XSH-z-bin-bl.flm             8.6        -23576.1           496.6           487.8          1240.3          1236.8

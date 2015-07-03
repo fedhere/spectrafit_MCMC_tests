@@ -1,0 +1,12 @@
+spec_name  phase        vel_50         velerr_16  vel_err_84   velerr_16_temperr   velerr_84_temperr
+SN09bb_b01_DUP_WF_28mar09-bl-z.flm            -5.3        -22524.7           167.7           155.8          4552.9          4552.5
+SN09bb_b01_DUP_WF_29mar09-bl-z.flm            -4.4        -23322.2           715.1           200.5          4870.5          4821.9
+SN09bb_b01_DUP_WF_03apr09-bl-z.flm             0.6        -19110.5           158.3           410.7          3929.2          3947.5
+SN09bb_BAA_IM_07apr09-bl-z.flm             4.5        -15843.6           178.2           184.2          2192.7          2193.2
+SN09bb_b01_CLA_LD_17apr09-bl-z.flm            14.6        -17976.2           223.7           187.8          2627.4          2624.6
+SN09bb_b01_DUP_BC_18apr09-bl-z.flm            15.6        -16978.3           426.0           444.2          1639.1          1643.9
+SN09bb_b01_DUP_BC_22apr09-bl-z.flm            19.6        -16236.1           762.8          1937.9          1496.3          2326.5
+SN09bb_b01_DUP_BC_23apr09-bl-z.flm            20.6        -16647.3           677.5           563.7          1454.7          1405.3
+SN09bb_r01_GEM_GMOS_26apr-bl-z.flm            23.6        -14399.3           134.3           176.3          1151.5          1157.1
+SN09bb_b01_CLA_LD_30apr09-bl-z.flm            27.6        -15273.1           364.6           241.7           858.0           813.4
+SN09bb_b01_BAA_IM_14may09-bl-z.flm            41.5         -9454.3           175.7           224.0           313.9           343.2

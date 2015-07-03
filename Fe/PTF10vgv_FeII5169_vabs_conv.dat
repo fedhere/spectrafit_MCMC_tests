@@ -1,0 +1,5 @@
+spec_name  phase        vel_50         velerr_16  vel_err_84   velerr_16_temperr   velerr_84_temperr
+10vgv_20100916_Lick_3-m_v1-z-bl.flm            -6.6        -10249.3            18.6          3920.1          3934.2          5553.8
+10vgv_20100927_HET_v1-z-bl.flm             4.2         -8318.8           488.2           434.0          2239.3          2228.1
+10vgv_20101001_Lick_3-m_v1-z-bl.flm             8.2         -6641.0            68.1           917.0          1138.6          1460.4
+10vgv_20101030_P200_v2-z-bl.flm            36.7         -6555.0           154.4           819.8          1484.8          1689.0
